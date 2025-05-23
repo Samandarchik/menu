@@ -33,7 +33,7 @@ class MovieCard extends StatelessWidget {
               boxShadow: [kDefaultShadow],
               image: DecorationImage(
                 fit: BoxFit.cover,
-                image: AssetImage(movie.poster),
+                image: NetworkImage(movie.poster),
               ),
             ),
           ),

@@ -29,9 +29,9 @@ List<Movie> movies = [
     title: "Chaban salad",
     year: 2020,
     poster:
-        "assets/images/telegram-cloud-photo-size-2-5217566622854797971-y.jpg",
+        "https://firebasestorage.googleapis.com/v0/b/amur-restoran.firebasestorage.app/o/amur.jpg?alt=media&token=8e3d1e77-0037-4b14-9003-88d6e5a07dd1",
     backdrop:
-        "assets/images/telegram-cloud-photo-size-2-5217566622854797971-y.jpg",
+        "https://firebasestorage.googleapis.com/v0/b/amur-restoran.firebasestorage.app/o/amur.jpg?alt=media&token=8e3d1e77-0037-4b14-9003-88d6e5a07dd1",
     numOfRatings: 150212,
     rating: 7.3,
     criticsReview: 50,
@@ -66,9 +66,9 @@ List<Movie> movies = [
     title: "Amur salad",
     year: 2020,
     poster:
-        "assets/images/telegram-cloud-photo-size-2-5217566622854797970-y.jpg",
+        "https://firebasestorage.googleapis.com/v0/b/amur-restoran.firebasestorage.app/o/amur.jpg?alt=media&token=8e3d1e77-0037-4b14-9003-88d6e5a07dd1",
     backdrop:
-        "assets/images/telegram-cloud-photo-size-2-5217566622854797970-y.jpg",
+        "https://firebasestorage.googleapis.com/v0/b/amur-restoran.firebasestorage.app/o/amur.jpg?alt=media&token=8e3d1e77-0037-4b14-9003-88d6e5a07dd1",
     numOfRatings: 150212,
     rating: 7.3,
     criticsReview: 50,
@@ -103,9 +103,9 @@ List<Movie> movies = [
     title: "Olive salad",
     year: 2020,
     poster:
-        "assets/images/telegram-cloud-photo-size-2-5217566622854797973-y.jpg",
+        "https://firebasestorage.googleapis.com/v0/b/amur-restoran.firebasestorage.app/o/amur.jpg?alt=media&token=8e3d1e77-0037-4b14-9003-88d6e5a07dd1",
     backdrop:
-        "assets/images/telegram-cloud-photo-size-2-5217566622854797973-y.jpg",
+        "https://firebasestorage.googleapis.com/v0/b/amur-restoran.firebasestorage.app/o/amur.jpg?alt=media&token=8e3d1e77-0037-4b14-9003-88d6e5a07dd1",
     numOfRatings: 150212,
     rating: 7.3,
     criticsReview: 50,
@@ -140,9 +140,9 @@ List<Movie> movies = [
     title: "Achuchuk salad",
     year: 2019,
     poster:
-        "assets/images/telegram-cloud-photo-size-2-5217566622854797974-y.jpg",
+        "https://firebasestorage.googleapis.com/v0/b/amur-restoran.firebasestorage.app/o/amur.jpg?alt=media&token=8e3d1e77-0037-4b14-9003-88d6e5a07dd1",
     backdrop:
-        "assets/images/telegram-cloud-photo-size-2-5217566622854797974-y.jpg",
+        "https://firebasestorage.googleapis.com/v0/b/amur-restoran.firebasestorage.app/o/amur.jpg?alt=media&token=8e3d1e77-0037-4b14-9003-88d6e5a07dd1",
     numOfRatings: 150212,
     rating: 8.2,
     criticsReview: 50,
@@ -174,12 +174,12 @@ List<Movie> movies = [
   ),
   Movie(
     id: 1,
-    title: "Parra",
+    title: "Gardan",
     year: 2020,
     poster:
-        "assets/images/telegram-cloud-photo-size-2-5224478999055554308-y.jpg",
+        "https://firebasestorage.googleapis.com/v0/b/amur-restoran.firebasestorage.app/o/amur.jpg?alt=media&token=8e3d1e77-0037-4b14-9003-88d6e5a07dd1",
     backdrop:
-        "assets/images/telegram-cloud-photo-size-2-5224478999055554308-y.jpg",
+        "https://firebasestorage.googleapis.com/v0/b/amur-restoran.firebasestorage.app/o/amur.jpg?alt=media&token=8e3d1e77-0037-4b14-9003-88d6e5a07dd1",
     numOfRatings: 150212,
     rating: 7.6,
     criticsReview: 50,
@@ -214,9 +214,9 @@ List<Movie> movies = [
     title: "Kirilichka shashlik",
     year: 2020,
     poster:
-        "assets/images/telegram-cloud-photo-size-2-5240171525359918059-y.jpg",
+        "https://firebasestorage.googleapis.com/v0/b/amur-restoran.firebasestorage.app/o/amur.jpg?alt=media&token=8e3d1e77-0037-4b14-9003-88d6e5a07dd1",
     backdrop:
-        "assets/images/telegram-cloud-photo-size-2-5240171525359918059-y.jpg",
+        "https://firebasestorage.googleapis.com/v0/b/amur-restoran.firebasestorage.app/o/amur.jpg?alt=media&token=8e3d1e77-0037-4b14-9003-88d6e5a07dd1",
     numOfRatings: 150212,
     rating: 7.6,
     criticsReview: 50,

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "613509125472",
+    "project_id": "amur-restoran",
+    "storage_bucket": "amur-restoran.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:613509125472:android:c30f9adb899496b527fa05",
+        "android_client_info": {
+          "package_name": "com.example.amur_res"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYA3_LPPQ642ZYMTC85FrcznK_WbTvUhE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
